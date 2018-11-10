@@ -1,4 +1,4 @@
--- Olga Ivanova 999084690 Farjad Siddiqui 913375961 ECS 140B Spring 2017
+-- Olga Ivanova Farjad Siddiqui ECS 140B Spring 2017
 -- Rush Hour Project
 
 rush_hour start = printAns (reverse (statesearch [start] []))
